@@ -6,14 +6,14 @@
 var margin, width, height, g;
 
 margin = {
-    left: 120,
+    left: 100,
     right: 10,
     top: 50,
     bottom: 150
 };
 
-width = 600 - margin.left - margin.right;
-height = 450 - margin.top - margin.bottom;
+width = 750 - margin.left - margin.right;
+height = 550 - margin.top - margin.bottom;
 
 // CANVAS APPEND
 g = d3.select('#chart-area')
@@ -30,7 +30,7 @@ g = d3.select('#chart-area')
 g.append('text')
     .attr('class', 'x axis-label')
     .attr('x', width / 2)
-    .attr('y', height + 75)
+    .attr('y', height + 100)
     .attr('font-size', '21px')
     .attr('text-anchor', 'middle')
     .text('QB Name');
@@ -67,13 +67,14 @@ d3.json('data/qb_stats.json').then( data => {
 
     xAxisCall = d3.axisBottom(x);
     g.append('g')
-        .attr('class', 'x-axis')
-        .attr('transform', 'translate(0' + height + ')')
+        .attr('class', 'x axis')
+        .attr('transform', 'translate(0,' + height + ')')
         .call(xAxisCall)
         .selectAll('text')
             .attr('y', '10')
             .attr('x', '-5')
-            .attr('text-anchor', 'end');
+            .attr('text-anchor', 'end')
+            .attr('transform', 'rotate(-40)');
 
     yAxisCall = d3.axisLeft(y)
         .ticks(7)
@@ -81,23 +82,21 @@ d3.json('data/qb_stats.json').then( data => {
             return d + 'yds';
         });
     g.append('g')
-        .attr('class', 'y-axis')
+        .attr('class', 'y axis')
         .call(yAxisCall);
     
-    rects = g.selectAll('rect')
+    circles = g.selectAll('circle')
         .data(data);
     
-    rects.enter()
-        .append('rect')
-        .attr('x', d => {
-            return x(d.player);
+    circles.enter()
+        .append('circle')
+        .attr('cx', d => {
+            return x(d.player) + x.bandwidth() / 2;
         })
-        .attr('y', d => {
+        .attr('cy', d => {
             return y(d.yds);
         })
-        .attr('height', d => {
-            return height - y(d.yds);
-        })
+        .attr('r', 5)
         .attr('width', x.bandwidth)
         .attr('fill', '#007041');
 
