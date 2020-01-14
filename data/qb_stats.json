@@ -1,0 +1,351 @@
+[{
+        "rank": 1,
+        "player": "Drew Brees",
+        "yds": 77416,
+        "years": "2001-2019",
+        "tm": "2TM"
+    },
+    {
+        "rank": 2,
+        "player": "Tom Brady",
+        "yds": 74571,
+        "years": "2000-2019",
+        "tm": "nwe"
+    },
+    {
+        "rank": 3,
+        "player": "Philip Rivers",
+        "yds": 59271,
+        "years": "2004-2019",
+        "tm": "sdg"
+    },
+    {
+        "rank": 4,
+        "player": "Eli Manning",
+        "yds": 57023,
+        "years": "2004-2019",
+        "tm": "nyg"
+    },
+    {
+        "rank": 5,
+        "player": "Ben Roethlisberger",
+        "yds": 56545,
+        "years": "2004-2019",
+        "tm": "pit"
+    },
+    {
+        "rank": 6,
+        "player": "Matt Ryan",
+        "yds": 51186,
+        "years": "2008-2019",
+        "tm": "atl"
+    },
+    {
+        "rank": 7,
+        "player": "Aaron Rodgers",
+        "yds": 46946,
+        "years": "2005-2019",
+        "tm": "gnb"
+    },
+    {
+        "rank": 8,
+        "player": "Matthew Stafford",
+        "yds": 41025,
+        "years": "2009-2019",
+        "tm": "det"
+    },
+    {
+        "rank": 9,
+        "player": "Joe Flacco",
+        "yds": 40067,
+        "years": "2008-2019",
+        "tm": "2TM"
+    },
+    {
+        "rank": 10,
+        "player": "Alex Smith",
+        "yds": 34068,
+        "years": "2005-2018",
+        "tm": "3TM"
+    },
+    {
+        "rank": 11,
+        "player": "Ryan Fitzpatrick",
+        "yds": 32886,
+        "years": "2005-2019",
+        "tm": "8TM"
+    },
+    {
+        "rank": 12,
+        "player": "Andy Dalton",
+        "yds": 31594,
+        "years": "2011-2019",
+        "tm": "cin"
+    },
+    {
+        "rank": 13,
+        "player": "Russell Wilson",
+        "yds": 29734,
+        "years": "2012-2019",
+        "tm": "sea"
+    },
+    {
+        "rank": 14,
+        "player": "Cam Newton",
+        "yds": 29041,
+        "years": "2011-2019",
+        "tm": "car"
+    },
+    {
+        "rank": 15,
+        "player": "Matt Schaub",
+        "yds": 25467,
+        "years": "2004-2019",
+        "tm": "4TM"
+    },
+    {
+        "rank": 16,
+        "player": "Kirk Cousins",
+        "yds": 24107,
+        "years": "2012-2019",
+        "tm": "2TM"
+    },
+    {
+        "rank": 17,
+        "player": "Andrew Luck",
+        "yds": 23671,
+        "years": "2012-2018",
+        "tm": "clt"
+    },
+    {
+        "rank": 18,
+        "player": "Ryan Tannehill",
+        "yds": 23176,
+        "years": "2012-2019",
+        "tm": "2TM"
+    },
+    {
+        "rank": 19,
+        "player": "Derek Carr",
+        "yds": 22793,
+        "years": "2014-2019",
+        "tm": "rai"
+    },
+    {
+        "rank": 20,
+        "player": "Jameis Winston",
+        "yds": 19737,
+        "years": "2015-2019",
+        "tm": "tam"
+    },
+    {
+        "rank": 21,
+        "player": "Josh McCown",
+        "yds": 17731,
+        "years": "2002-2019",
+        "tm": "9TM"
+    },
+    {
+        "rank": 22,
+        "player": "Blake Bortles",
+        "yds": 17649,
+        "years": "2014-2019",
+        "tm": "2TM"
+    },
+    {
+        "rank": 23,
+        "player": "Dak Prescott",
+        "yds": 15778,
+        "years": "2016-2019",
+        "tm": "dal"
+    },
+    {
+        "rank": 24,
+        "player": "Case Keenum",
+        "yds": 14368,
+        "years": "2012-2019",
+        "tm": "5TM"
+    },
+    {
+        "rank": 25,
+        "player": "Jared Goff",
+        "yds": 14219,
+        "years": "2016-2019",
+        "tm": "ram"
+    },
+    {
+        "rank": 26,
+        "player": "Carson Wentz",
+        "yds": 14191,
+        "years": "2016-2019",
+        "tm": "phi"
+    },
+    {
+        "rank": 27,
+        "player": "Marcus Mariota",
+        "yds": 13207,
+        "years": "2015-2019",
+        "tm": "oti"
+    },
+    {
+        "rank": 28,
+        "player": "Chad Henne",
+        "yds": 12960,
+        "years": "2008-2018",
+        "tm": "3TM"
+    },
+    {
+        "rank": 29,
+        "player": "Nick Foles",
+        "yds": 11901,
+        "years": "2012-2019",
+        "tm": "4TM"
+    },
+    {
+        "rank": 30,
+        "player": "Brian Hoyer",
+        "yds": 10274,
+        "years": "2009-2019",
+        "tm": "7TM"
+    },
+    {
+        "rank": 31,
+        "player": "Deshaun Watson",
+        "yds": 9716,
+        "years": "2017-2019",
+        "tm": "htx"
+    },
+    {
+        "rank": 32,
+        "player": "Tyrod Taylor",
+        "yds": 9562,
+        "years": "2011-2019",
+        "tm": "4TM"
+    },
+    {
+        "rank": 33,
+        "player": "Patrick Mahomes",
+        "yds": 9412,
+        "years": "2017-2019",
+        "tm": "kan"
+    },
+    {
+        "rank": 34,
+        "player": "Robert Griffin",
+        "yds": 9229,
+        "years": "2012-2019",
+        "tm": "3TM"
+    },
+    {
+        "rank": 35,
+        "player": "Blaine Gabbert",
+        "yds": 9063,
+        "years": "2011-2018",
+        "tm": "4TM"
+    },
+    {
+        "rank": 36,
+        "player": "Mitchell Trubisky",
+        "yds": 8554,
+        "years": "2017-2019",
+        "tm": "chi"
+    },
+    {
+        "rank": 37,
+        "player": "Teddy Bridgewater",
+        "yds": 7652,
+        "years": "2014-2019",
+        "tm": "2TM"
+    },
+    {
+        "rank": 38,
+        "player": "Matt Moore",
+        "yds": 7597,
+        "years": "2007-2019",
+        "tm": "3TM"
+    },
+    {
+        "rank": 39,
+        "player": "Baker Mayfield",
+        "yds": 7552,
+        "years": "2018-2019",
+        "tm": "cle"
+    },
+    {
+        "rank": 40,
+        "player": "Jimmy Garoppolo",
+        "yds": 6946,
+        "years": "2014-2019",
+        "tm": "2TM"
+    },
+    {
+        "rank": 41,
+        "player": "Jacoby Brissett",
+        "yds": 6442,
+        "years": "2016-2019",
+        "tm": "2TM"
+    },
+    {
+        "rank": 42,
+        "player": "Geno Smith",
+        "yds": 6182,
+        "years": "2013-2018",
+        "tm": "3TM"
+    },
+    {
+        "rank": 43,
+        "player": "Colt McCoy",
+        "yds": 6080,
+        "years": "2010-2019",
+        "tm": "3TM"
+    },
+    {
+        "rank": 44,
+        "player": "Sam Darnold",
+        "yds": 5889,
+        "years": "2018-2019",
+        "tm": "nyj"
+    },
+    {
+        "rank": 45,
+        "player": "Trevor Siemian",
+        "yds": 5689,
+        "years": "2015-2019",
+        "tm": "2TM"
+    },
+    {
+        "rank": 46,
+        "player": "Josh Allen",
+        "yds": 5163,
+        "years": "2018-2019",
+        "tm": "buf"
+    },
+    {
+        "rank": "",
+        "player": "Mike Glennon",
+        "yds": 5163,
+        "years": "2013-2019",
+        "tm": "4TM"
+    },
+    {
+        "rank": 48,
+        "player": "Lamar Jackson",
+        "yds": 4328,
+        "years": "2018-2019",
+        "tm": "rav"
+    },
+    {
+        "rank": 49,
+        "player": "Drew Stanton",
+        "yds": 4059,
+        "years": "2008-2017",
+        "tm": "3TM"
+    },
+    {
+        "rank": 50,
+        "player": "Kyler Murray",
+        "yds": 3722,
+        "years": 2019,
+        "tm": "crd"
+    }
+]
